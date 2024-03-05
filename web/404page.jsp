@@ -33,6 +33,7 @@
 </head>
 
 <body>
+<h1></h1>
 
 	<div id="notfound">
 		<div class="notfound">
